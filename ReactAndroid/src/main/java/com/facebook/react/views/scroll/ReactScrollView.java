@@ -249,7 +249,7 @@ public class ReactScrollView extends ScrollView implements ReactClippingViewGrou
       
       Log.d(
             ReactConstants.TAG,
-            "FLING+++");
+            "FLING+++ ");
       
       // Workaround.
       // On Android P if a ScrollView is inverted, we will get a wrong sign for
